@@ -1,0 +1,10 @@
+{
+  "name": "json-placeholder-graphql-proxy-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7",
+    "node-fetch": "^2.3.0"
+  }
+}
